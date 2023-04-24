@@ -1,8 +1,6 @@
 #include <iostream>
-
 #include <math.h>
-
-
+//Area & Perimeter of a circle
 using namespace std;
 float r=0,A=0,P=0,pi=3.14;
 float r2=0;
