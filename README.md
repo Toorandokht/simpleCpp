@@ -9,3 +9,6 @@ my first codes in C++ progmramming language
 <br> 7- Triangle type / نوع مثلث
 <br> 8- Prependicular Triangle / تشخیص مثلث قائم الزاویه
 <br> 9- Show days of Shamsi Months / نشان دادن روز های ماه های شمسی
+<br> 10- Getting higher Decimal Number / نشان دادن بزرگترین عدد اعشاری از بین 3 عدد
+<br> 11- Vowels & Constonants & Numbers & other Characters / دسته بندی کاراکتر وارد شده ( حروف صدا دار، بی صدا، اعداد و یا سایر کاراکترها)
+<br> 12- Quadration Equation / معادله ی درجه دوم
