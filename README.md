@@ -15,3 +15,6 @@ my first codes in C++ progmramming language
 <br> 13- Show 3-digit even numbers / نشان دادن اعداد زوج 3 رقمی
 <br> 14- Show 3-digit odd numbers - descending / نشان دادن اعداد فرد سه رقمی - به صورت نزولی
 <br> 15- Show 4-digit numbers which are divisible by 7 not by 3 / نشان دادن اعداد 4 رقمی که بر 7 بخش پذیر بوده،ولی بر 3 بخش پذیر نیستند
+<br> 16- Show lower or equal natural numbers of an entered number / نشان دادن اعداد طبیعی کمتر یا مساوی عدد وارد شده
+<br> 17- Show all divisor and number of an entered number / نشان دادن مقسوم علیه ها و تعداد آن ها برای یک عدد
+<br> 18- Show whether a number is prime or not / نشان دادن اینکه عدد وارد شده اول است یا خیر
