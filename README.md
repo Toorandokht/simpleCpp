@@ -18,3 +18,4 @@ my first codes in C++ progmramming language
 <br> 16- Show lower or equal natural numbers of an entered number / نشان دادن اعداد طبیعی کمتر یا مساوی عدد وارد شده
 <br> 17- Show all divisor and number of an entered number / نشان دادن مقسوم علیه ها و تعداد آن ها برای یک عدد
 <br> 18- Show whether a number is prime or not / نشان دادن اینکه عدد وارد شده اول است یا خیر
+<br> 19- Show common divisor of two numbers / نشان دادن مقسوم علیه های مشترک دو عدد
