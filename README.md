@@ -19,3 +19,4 @@ my first codes in C++ progmramming language
 <br> 17- Show all divisor and number of an entered number / نشان دادن مقسوم علیه ها و تعداد آن ها برای یک عدد
 <br> 18- Show whether a number is prime or not / نشان دادن اینکه عدد وارد شده اول است یا خیر
 <br> 19- Show common divisor of two numbers / نشان دادن مقسوم علیه های مشترک دو عدد
+<br> 20- Show the Greatest common divisor(GCD) of a number / نشان دادن بزرگترین مقسوم علیه مشترک (ب.م.م) دو عدد
