@@ -22,4 +22,4 @@ my first codes in C++ progmramming language
 <br> 20- Show the Greatest common divisor(GCD) of a number / نشان دادن بزرگترین مقسوم علیه مشترک (ب.م.م) دو عدد
 <br> 21- Show GCD and LCM of a number / نشان دادن کوچکترین مضرب مشترک (ک.م.م) دو عدد
 <br> 22- Show factorial of an integer number / محاسبه ی فاکتوریل یک عدد صحیح
-<br> 23- Show digits number of a number / نشان دادن تعداد ارقام یک عدد
+<br> 23-  Show digits number & Sum of them for a number / نشان دادن تعداد ارقام یک عدد و مجموع آن ها
