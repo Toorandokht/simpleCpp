@@ -23,3 +23,4 @@ my first codes in C++ progmramming language
 <br> 21- Show GCD and LCM of a number / نشان دادن کوچکترین مضرب مشترک (ک.م.م) دو عدد
 <br> 22- Show factorial of an integer number / محاسبه ی فاکتوریل یک عدد صحیح
 <br> 23-  Show digits number & Sum of them for a number / نشان دادن تعداد ارقام یک عدد و مجموع آن ها
+<br> 24- Show the greatest number from 100(or specific) numbers /  نشان دادن بزرگترین عدد از بین 100 (یا تعداد مشخصی) عدد
