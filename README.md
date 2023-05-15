@@ -24,3 +24,5 @@ my first codes in C++ progmramming language
 <br> 22- Show factorial of an integer number / محاسبه ی فاکتوریل یک عدد صحیح
 <br> 23-  Show digits number & Sum of them for a number / نشان دادن تعداد ارقام یک عدد و مجموع آن ها
 <br> 24- Show the greatest number from 100(or specific) numbers /  نشان دادن بزرگترین عدد از بین 100 (یا تعداد مشخصی) عدد
+<br> 25- showing the prime numbers in your range / نشان دادن اعداد اول یک بازه ی مشخص
+<br> 26- show common multiples of two numbers till your specific endpoint / نشان دادن مضارب مشترک دو عدد تا یک عدد مشخص
