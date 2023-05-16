@@ -18,22 +18,19 @@ int main(int argc, char** argv)
 	
 	for(t=1;t<=a+1;t++)
 	{
-	
 		if((a%t==0) && (b%t==0))
 		{
 			cout<<t<<endl;	
-		
 		}
-	
 	}
 	
 	cout<<"the greatest common divisor(GCD) for "<< a <<" and "<< b << " is:\n";
 	r=a%b;
 	while(r!=0)
 	{
-	a=b;
-	b=r;
-	r=a%b;
+		a=b;
+		b=r;
+		r=a%b;
 	}
 	cout<<b<<endl;
 	
