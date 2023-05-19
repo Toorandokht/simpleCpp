@@ -6,18 +6,17 @@ using namespace std;
 char x;
 char y;
 int z;
-int main(int argc, char** argv)
-
+int main()
 {
 	// 1st way		
-	cout<< "Enter a first character: ";
+	cout<< "Enter the first character: ";
 	cin>>x;
 	
 	cout<<"ASCII value of "<< x << "  is  " << int(x);
 	
 	
 	// 2nd way
-	cout<< "\n,""Enter a second character: ";
+	cout<< "\n,""Enter the second character: ";
 	cin>>y;
 	z=y;
 	cout<<"ASCII value of "<< y << "  is  " << z;
