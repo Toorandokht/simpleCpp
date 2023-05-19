@@ -2,12 +2,11 @@
 
 //Triangle type
 
-
 using namespace std;
 
 int a,b,c;
 
-int main(int argc, char** argv)
+int main()
 {
 	cout<<"enter the value for first triangle disrict: " << "a=";
 	cin>>a;
