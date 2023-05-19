@@ -5,7 +5,7 @@
 using namespace std;
 
 int a=0;
-int main(int argc, char** argv)
+int main()
 {
 	cout<<"Please enter your number to check whether it is odd or Even: ";
 	cin>>a;
