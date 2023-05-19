@@ -7,7 +7,7 @@ using namespace std;
 float l=0,w=0;
 float A=0,P=0;
 
-int main(int argc, char** argv)
+int main()
 {
 	cout<<"Please enter the legth of Rectangle: ";
 	cin>>l;
