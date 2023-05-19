@@ -8,8 +8,8 @@ using namespace std;
 int a,b,c;
 int a2,b2,c2;
 int space,Perimeter;
-int main(int argc, char** argv) {
-
+int main()
+{
 	cout<<"enter the value for first triangle disrict: " << "a=";
 	cin>>a;
 	
@@ -45,6 +45,5 @@ int main(int argc, char** argv) {
 	cout<<"your triangle is not a perpendicular and its perimeter is: "<<(a+b+c);
 
 
-	
 	return 0;
 }
