@@ -5,7 +5,7 @@
 using namespace std;
 
 float a,b,c;
-int main(int argc, char** argv)
+int main()
 {
 	cout<<"enter the value for the first decimal number: " << "a=";
 	cin>>a;
