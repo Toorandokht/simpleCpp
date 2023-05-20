@@ -4,14 +4,14 @@
 using namespace std;
 
 int i;
-int main(int argc, char** argv)
+int main()
 {
 	for (i=999;i>99;i--)	
 	{
-	if (i%2==1)
-	{
+		if (i%2==1)
+		{
 		cout<<i<<endl;
-	}	
+		}	
 	}
 	
 	return 0;
