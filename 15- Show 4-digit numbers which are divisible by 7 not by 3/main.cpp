@@ -5,7 +5,7 @@
 using namespace std;
 
 int i;
-int main(int argc, char** argv)
+int main()
 {
 	for (i=1000;i<10000;i++)
 	{
