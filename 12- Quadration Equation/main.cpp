@@ -7,7 +7,7 @@ float a,b,c,x1,x2,b2;
 float delta,sdelta; // sdelta = sqrt(delta)
 
 
-int main(int argc, char** argv)
+int main()
 {
 	cout<<"in ax^2+bx+c quadration equation, please enter a: ";
 	cin>>a;
