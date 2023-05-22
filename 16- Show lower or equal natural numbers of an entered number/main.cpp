@@ -4,9 +4,9 @@
 using namespace std;
 
 int a,t;
-int main(int argc, char** argv)
+int main()
 {
-		cout<<"enter a natural number: ";
+	cout<<"enter a natural number: ";
 	cin>>a;
 	
 	while(a<=0)
