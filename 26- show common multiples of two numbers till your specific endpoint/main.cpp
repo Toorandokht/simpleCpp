@@ -1,6 +1,6 @@
 #include <iostream>
 
-// show common multiples of two numbers  till your specific endpoint
+// show common multiples of two numbers till your specific endpoint
 using namespace std;
 
 int t,a,b,e;
