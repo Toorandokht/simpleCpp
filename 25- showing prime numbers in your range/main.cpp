@@ -4,7 +4,7 @@
 using namespace std;
 
 int t,i,a,b,n;
-int main(int argc, char** argv)
+int main()
 {
 	cout<<"enter the lower number of your range"<<endl;
 	cin>>a;
