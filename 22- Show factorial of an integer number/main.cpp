@@ -5,7 +5,7 @@ using namespace std;
 
 
 int a,i,f=1,t;
-int main(int argc, char** argv)
+int main()
 {
 	
 	while(1)
@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 	}
 
 	else if(t>0)
-    {
+   	{
     	for(i=1;i<=t;i++)    
 		{    
 		f=f*i;
