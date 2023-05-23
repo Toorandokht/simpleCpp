@@ -4,7 +4,7 @@
 using namespace std;
 
 int t,a,b,e;
-int main(int argc, char** argv)
+int main()
 {
 	cout<<"enter you first(lower number) to see the multiples"<<endl;
 	cin>>a;
