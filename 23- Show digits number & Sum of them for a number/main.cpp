@@ -4,7 +4,7 @@
 using namespace std;
 
 int a,r,SoD,a1,d=0;
-int main(int argc, char** argv)
+int main()
 {
 	cout<<"enter your number: " << "a= ";
 	cin>>a;
