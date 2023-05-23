@@ -5,7 +5,7 @@ using namespace std;
 
 
 int i,a,b,c,n;
-int main(int argc, char** argv)
+int main()
 {	
 	cout<<"how many numbers you want to enter to get the highest one?"<<endl;
 	cin>>n;
@@ -15,12 +15,12 @@ int main(int argc, char** argv)
 		cout<<"Please enter your numbers: ";
 		cin>>a;
 		
-			if(a>b)
+		if(a>b)
     		{  
-    		c=a;
+    			c=a;
 			a=b;
 			b=c;
-			}
+		}
 		}
 		cout<<"the greatest number is "<<b<<endl;
 			
