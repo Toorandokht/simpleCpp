@@ -9,7 +9,7 @@ int z;
 int main()
 {
 	// 1st way		
-	cout<< "Enter the first character: ";
+	cout<< "Enter the character: ";
 	cin>>x;
 	
 	cout<<"ASCII value of "<< x << "  is  " << int(x);
