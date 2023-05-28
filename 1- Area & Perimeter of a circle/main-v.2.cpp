@@ -9,7 +9,6 @@ double power(double c, double d)
 	double m=1;
 	for(i=1;i<=d;i++)
 	m *= c;
-	
 	return m;
 }
 
@@ -26,15 +25,13 @@ double Area(double r)
 	A=pi*power(r,2);
 	return A;
 }
+
 int main() 
 {
 double a;
 	cout<<"Please enter (radius) value to have its Area & Perimeter values: ";
 	cin>>a;
-	
- 	
 	cout<<"A= "<<Area(a)<<"\n";
 	cout<<"P= "<<perimeter(a);
-	
 	return 0;
 }
