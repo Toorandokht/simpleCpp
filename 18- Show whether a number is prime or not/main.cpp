@@ -1,10 +1,10 @@
 #include <iostream>
 
-//Show whether a number is prime or not
+//Getting an integer number & tell whether it is prime number or not
 using namespace std;
 
 int t,a,n;
-int main()
+int main(int argc, char** argv)
 {
 	cout<<"enter an integer number: " << "a= ";
 	cin>>a;
@@ -15,8 +15,10 @@ int main()
 		
 		if(a%t==0)
 		{
+			
 			cout<<t<<endl;
-			n++;	
+			n++;
+				
 		}
 		
 	}
